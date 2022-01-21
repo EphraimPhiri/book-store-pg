@@ -17,9 +17,7 @@ public class BookStoreConfig {
 
             BookStore james = new BookStore("James",
                     "james@gmail.com");
-            repository.saveAll(
-                    List.of(mercy, james)
-            );
+            repository.toString();
         };
 
 
