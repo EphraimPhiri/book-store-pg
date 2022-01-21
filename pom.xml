@@ -14,7 +14,7 @@
 	<name>book-store-pg</name>
 	<description>book-store-pg is software that helps in the accessing of software books</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
